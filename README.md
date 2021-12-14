@@ -4,16 +4,12 @@ Efficient selection of the degree of sparsity for Sparse $k$-Means and Sparse Fu
 
 The derived expression for $k$-Means:
 
-<center>
 <img src="https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/skm_bic.png" width="600">
-</center>
 
 
 The derived expression for Fuzzy $c$-Means:
 
-<center>
 <img src="https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/sfcm_bic.png" width="600">
-</center>
 
 
 In comparison to the tradition Parition Method (PM) that uses the GAP statistic, the use of the derived expressions of BIC lead to significant reductions in computation complexity, and therefore execution times:
