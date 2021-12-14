@@ -16,6 +16,8 @@ In comparison to the tradition Parition Method (PM) that uses the GAP statistic,
 
 ![timings](https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/timings.png)
 
+---
+
 **sparse_kmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse $k$-Means.
 
 **sparse_fuzzy_cmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse Fuzzy $c$-Means.
