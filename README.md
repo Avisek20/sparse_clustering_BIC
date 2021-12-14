@@ -4,7 +4,7 @@ Efficient selection of the degree of sparsity for Sparse $k$-Means and Sparse Fu
 
 The derived expression for $k$-Means:
 
-![skm_bic](https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/skm_bic.png)
+![skm_bic](https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/skm_bic.png | width=50)
 
 The derived expression for Fuzzy $c$-Means:
 
