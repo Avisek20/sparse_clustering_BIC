@@ -1,13 +1,13 @@
 # Improved Efficient Model Selection for Sparse Hard and Fuzzy Center-Based Clustering
 
-Efficient selection of the degree of sparsity for Sparse $`k`$-Means and Sparse Fuzzy $c$-Means is possible using expressions of Bayesian Information Criterion.
+Efficient selection of the degree of sparsity for Sparse *k*-Means and Sparse Fuzzy *c*-Means is possible using expressions of Bayesian Information Criterion.
 
-The derived expression for $k$-Means:
+The derived expression for *k*-Means:
 
 <img src="https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/skm_bic.png" width="600">
 
 
-The derived expression for Fuzzy $c$-Means:
+The derived expression for Fuzzy *c*-Means:
 
 <img src="https://raw.githubusercontent.com/Avisek20/sparse_clustering_BIC/master/imgs/sfcm_bic.png" width="600">
 
@@ -18,9 +18,9 @@ In comparison to the tradition Parition Method (PM) that uses the GAP statistic,
 
 ---
 
-**sparse_kmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse $k$-Means.
+**sparse_kmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse *k*-Means.
 
-**sparse_fuzzy_cmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse Fuzzy $c$-Means.
+**sparse_fuzzy_cmeans_BIC.py** contains the implementation of using BIC for the model selection of Sparse Fuzzy *c*-Means.
 
 **indices/** contain contending cluster validity indices.
 
