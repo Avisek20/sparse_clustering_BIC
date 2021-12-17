@@ -1,6 +1,6 @@
 # Improved Efficient Model Selection for Sparse Hard and Fuzzy Center-Based Clustering
 
-Efficient selection of the degree of sparsity for Sparse $k$-Means and Sparse Fuzzy $c$-Means is possible using expressions of Bayesian Information Criterion.
+Efficient selection of the degree of sparsity for Sparse $`k`$-Means and Sparse Fuzzy $c$-Means is possible using expressions of Bayesian Information Criterion.
 
 The derived expression for $k$-Means:
 
